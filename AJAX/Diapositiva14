@@ -1,0 +1,13 @@
+￼$(document).ready(function() { 
+	function processData(data) { ... } 
+	function errorAlert(e, jqxhr) {
+		alert("Your request was not successful: " + jqxhr); 
+	}
+	$('a').click(function() {
+		$.ajax({type: "GET”, cache: false, url: “text.xml”,
+			dataType: "xml”, contentType: "text/html”, 
+			success: processData,
+			error: errorAlert
+		}); 
+	});
+});

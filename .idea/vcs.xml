@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sito" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sito/CorsoWeb2-0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sito/gelateria" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sito/pdo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sito/pdo_tvshows" vcs="Git" />
+  </component>
+</project>
